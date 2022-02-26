@@ -1,0 +1,11 @@
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\bin\Debug\Launchpad.exe.config
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\bin\Debug\Launchpad.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\bin\Debug\Launchpad.pdb
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.csproj.AssemblyReference.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.Form1.resources
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.Properties.Resources.resources
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.csproj.GenerateResource.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.csproj.CoreCompileInputs.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Launchpad\Launchpad\obj\Debug\Launchpad.pdb
