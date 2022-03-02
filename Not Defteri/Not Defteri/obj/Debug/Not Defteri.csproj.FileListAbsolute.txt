@@ -1,0 +1,11 @@
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.AssemblyReference.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not_Defteri.Form1.resources
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.GenerateResource.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.csproj.CoreCompileInputs.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\Not Defteri\Not Defteri\obj\Debug\Not Defteri.pdb
