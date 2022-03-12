@@ -1,0 +1,8 @@
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\bin\Debug\SelimikoEvetHayir.exe.config
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\bin\Debug\SelimikoEvetHayir.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\bin\Debug\SelimikoEvetHayir.pdb
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\obj\Debug\SelimikoEvetHayir.csproj.AssemblyReference.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\obj\Debug\SelimikoEvetHayir.csproj.SuggestedBindingRedirects.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\obj\Debug\SelimikoEvetHayir.csproj.CoreCompileInputs.cache
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\obj\Debug\SelimikoEvetHayir.exe
+C:\Users\mcamb\Desktop\SELiM KLASÖRÜ\vscode\SelimikoEvetHayir\SelimikoEvetHayir\obj\Debug\SelimikoEvetHayir.pdb
